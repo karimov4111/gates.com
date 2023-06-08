@@ -1,0 +1,624 @@
+vhicle_class,vhicle_deta,year,make,model,engine,category,subcategory,application,product_type,part,comments
+Passenger Cars & Light Trucks,Light Trucks,2023,Chevrolet,Traverse,V-6 3.6 L,"Belt Drive System
+                        (3)","Front End Accessory Drive Components
+                                (3)","Serpentine 
+Tensioner Assy. 
+Idler Pulley 
+","Automotive V-Ribbed Belts (Standard) 
+Belt Drive Tensioners 
+Belt Drive Pulleys 
+","K060744 
+38397 
+36110 
+","View Chevrolet (Front End Accessory Drive Components) Diagram 
+ 
+ 
+"
+Passenger Cars & Light Trucks,Light Trucks,2023,Hyundai,Kona,4-Cyl. 1.6 L,"Belt Drive System
+                        (2)","Front End Accessory Drive Components
+                                (2)","Serpentine 
+Alt. Decoupler Pulley 
+","Automotive V-Ribbed Belts (Standard) 
+Decoupler Pulleys 
+","K060470 
+37269P 
+","View Hyundai (Front End Accessory Drive Components) Diagram 
+ 
+"
+Passenger Cars & Light Trucks,Light Trucks,2023,Tesla Motors,Model Y,Electric,"Cooling System
+                        (5)","Coolant Hose
+                                (5)","Battery Tube - Right Front Manifold 
+Battery Tube - Left Front Manifold 
+Rear Drive Unit Inverter To Oil Cooler 
+Rear Drive Outlet Hose 
+Inlet PCS Module-3 
+","Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+","65005 
+65003 
+65002 
+65007 
+65001 
+"," 
+ 
+ 
+ 
+ 
+"
+Passenger Cars & Light Trucks,Passenger Cars,2023,Cadillac,CT4,4-Cyl. 2.0 L,"Belt Drive System
+                        (1)","Front End Accessory Drive Components
+                                (1)","Serpentine 
+","Automotive V-Ribbed Belts (Standard) 
+","K050419 
+","View Cadillac (Front End Accessory Drive Components) Diagram 
+"
+Passenger Cars & Light Trucks,Passenger Cars,2023,Chevrolet,Camaro,4-Cyl. 2.0 L,"Belt Drive System
+                        (2)","Front End Accessory Drive Components
+                                (2)","Serpentine 
+Tensioner Assy. 
+","Automotive V-Ribbed Belts (Standard) 
+Belt Drive Tensioners 
+","K050689 
+39350 
+","View Chevrolet (Front End Accessory Drive Components) Diagram 
+ 
+"
+Passenger Cars & Light Trucks,Passenger Cars,2023,Tesla Motors,Model 3,Electric,"Cooling System
+                        (5)","Coolant Hose
+                                (5)","Battery Tube - Right Front Manifold 
+Battery Tube - Left Front Manifold 
+Rear Drive Unit Inverter To Oil Cooler 
+Rear Drive Outlet Hose 
+Inlet PCS Module-3 
+","Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+Molded Thermoplastic Coolant Hoses 
+","65005 
+65003 
+65002 
+65007 
+65001 
+"," 
+ 
+ 
+ 
+ 
+"
+Passenger Cars & Light Trucks,Passenger Cars,2023,Tesla Motors,Model S,Electric,"Cooling System
+                        (1)","Coolant Hose
+                                (1)","Rear Drive Unit Inverter To Oil Cooler 
+","Molded Thermoplastic Coolant Hoses 
+","65002 
+"," 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Ford,E450 Super Duty,Ford V-8 7.3 L,"Oil & Lubrication System
+                        (1)","Oil Caps
+                                (1)","Oil Filler Cap 
+","Oil Filler Caps 
+","31275 
+"," 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Ford,F650 Super Duty,Ford V-8 7.3 L,"Oil & Lubrication System
+                        (1)","Oil Caps
+                                (1)","Oil Filler Cap 
+","Oil Filler Caps 
+","31275 
+"," 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Ford,F750 Super Duty,Ford V-8 7.3 L,"Oil & Lubrication System
+                        (1)","Oil Caps
+                                (1)","Oil Filler Cap 
+","Oil Filler Caps 
+","31275 
+"," 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,389,Cummins X15 Diesel,"Air Intake System
+                        (5)","Air Intake & Emission Control
+                                (5)","DEF Tank Cap 
+Eng. To Pipe (Hot Side) 
+Pipe To Intercooler (Hot Side) 
+Intercooler To Pipe (Cold Side) 
+Pipe To Engine (Cold Side) 
+","Diesel Emissions Fluid (DEF) Caps 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+","30002 
+26203 
+26203 
+26203 
+26203 
+"," 
+ 
+ 
+ 
+ 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,520,Paccar MX-11 Diesel,"Air Intake System
+                        (4)","Air Intake & Emission Control
+                                (4)","Eng. To Pipe (Hot Side) 
+Pipe To Intercooler (Hot Side) 
+Intercooler To Pipe (Cold Side) 
+Pipe To Engine (Cold Side) 
+","Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+","26203 
+26203 
+26203 
+26203 
+"," 
+ 
+ 
+ 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,536,Paccar PX-7 Diesel,"Belt Drive System
+                        (3)","Front End Accessory Drive Components
+                                (3)","Fan 
+Fan 
+Tensioner Assy. 
+","Automotive V-Ribbed Belts (Heavy Duty) 
+Automotive V-Ribbed Belts (Standard) 
+Belt Drive Tensioners 
+","K080842HD 
+K080842 
+38702 
+"," 
+ 
+ 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,537,Paccar PX-9 Diesel,"Belt Drive System
+                        (3)","Front End Accessory Drive Components
+                                (3)","Fan 
+Tensioner Assy. 
+Idler Pulley 
+","Automotive V-Ribbed Belts (Heavy Duty) 
+Belt Drive Tensioners 
+Belt Drive Pulleys 
+","K080834HD 
+38627 
+36096 
+"," 
+ 
+ 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,567,Paccar MX-11 Diesel,"Air Intake System
+                        (5)","Air Intake & Emission Control
+                                (5)","DEF Tank Cap 
+Eng. To Pipe (Hot Side) 
+Pipe To Intercooler (Hot Side) 
+Intercooler To Pipe (Cold Side) 
+Pipe To Engine (Cold Side) 
+","Diesel Emissions Fluid (DEF) Caps 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+","30002 
+26203 
+26203 
+26203 
+26203 
+"," 
+ 
+ 
+ 
+ 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,567,Paccar MX-13 Diesel,"Air Intake System
+                        (3)","Air Intake & Emission Control
+                                (3)","DEF Tank Cap 
+Eng. To Pipe (Hot Side) 
+Pipe To Intercooler (Hot Side) 
+","Diesel Emissions Fluid (DEF) Caps 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+","30002 
+26203 
+26203 
+"," 
+ 
+ 
+"
+Medium/Heavy Trucks,Medium/Heavy Trucks,2023,Peterbilt,579,Cummins X15 Diesel,"Air Intake System
+                        (3)","Air Intake & Emission Control
+                                (3)","DEF Tank Cap 
+Eng. To Pipe (Hot Side) 
+Pipe To Intercooler (Hot Side) 
+","Diesel Emissions Fluid (DEF) Caps 
+Turbocharger Hose (Ring-Retained) 
+Turbocharger Hose (Ring-Retained) 
+","30002 
+26203 
+26203 
+"," 
+ 
+ 
+"
+Buses,School Buses,2022,Bluebird,Vision,Cummins B6.7 Diesel,"Belt Drive System
+                        (4)","Front End Accessory Drive Components
+                                (4)","Fan 
+Fan 
+Tensioner Assy. 
+Idler Pulley 
+","Automotive V-Ribbed Belts (Heavy Duty) 
+Automotive V-Ribbed Belts (Standard) 
+Belt Drive Tensioners 
+Belt Drive Pulleys 
+","K080952HD 
+K080952 
+38766 
+36093 
+"," 
+ 
+ 
+ 
+"
+Buses,School Buses,2022,International/Navistar,CE,PSI V-8 8.8 L,"Cooling System
+                        (1)","Radiator Caps & Testers
+                                (1)","Coolant Recovery Tank Cap 
+","OE Type Radiator Caps 
+","31405 
+","15 psi 
+"
+Buses,Transit Buses,2018,Thomas Built,Transit-Liner HDX,Cummins ISL Diesel,"Belt Drive System
+                        (1)","Front End Accessory Drive Components
+                                (1)","Tensioner Assy. 
+","Belt Drive Tensioners 
+","38731 
+"," 
+"
+Refrigeration Units,Refrigeration Units,All,Arctic Traveler,B,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Arctic Traveler,Challenger,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Arctic Traveler,FD10,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Arctic Traveler,TE750,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Extra XT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Genesis TM1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Genesis TM900,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Maxima 1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Maxima 1200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 622,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 644,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 650,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 750,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 850,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 860,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 922,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 944,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 950,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 950 MT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Supra 960,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Ultima,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Ultra XL,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Vector 6500,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Vector 6600 MT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Vector 8500,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,Vector 8600MT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,X2 1800,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,X2 2100,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,X2 2500A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,X4 7300,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Carrier,X4 7500,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,B1,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,C,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,C-600,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CA,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CB-I,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CB-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CB-III,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CBCI,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CGS1250,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,CM,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Crown 500,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,D1 Series,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,D2M2,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,D3 Series,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,D4M1,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,FB2,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,FB2-M5,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,GA,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,GL,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,HA,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,HK 100,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,HK 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,HK 60,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,HM,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,J,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,JD-I 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,JD-I 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KD-I,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KD-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 10,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 20,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 40S,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KL 62,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KLA,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,KR,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LND 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LND 30 PEG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LND 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LND 50 PEG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LR,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,LR-I,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,M13,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,M15,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,M22,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MD-I,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MD-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MD-II 30 TCI,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MD-II MAX,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MD-II SR,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MW,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWC 10,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWC 20,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWC 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWC 40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWC 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWCL 25,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,MWCT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NFD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NSD1-1012,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD (Super & Crown),All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 3000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 3005,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 3006,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 3100 Series,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 AM4,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 AM6,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 AM7,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M100,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M10A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M1212,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M20,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M22,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M35,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M4,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M46,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 30 M50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 35 AM6,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 35 AM7,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 35 AM8,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 35 M21,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 35 M4,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 35 M5,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 50 3000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 50 3011,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 50 3100 Series,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 50 M207,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 62,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 62 30M5,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 62 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD 622 30M10A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD-AM1,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD-AM3,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD-AM4,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWD-AM8,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWE MAX,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,NWG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RCD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RD-I 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RD-I 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RD-I SSIV,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RD-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RL,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RL 20,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RL 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RLA,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RLD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,ROL 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,ROL 40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,ROL 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,RT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,S-600,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-190,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-I 1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-I 1200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-I 2000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-I 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-I 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-I 5300,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 30 1500 AC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 30 1500 PEG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 30 DELTA,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 30 PEG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II 50 TC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II C201,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II Convertible,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II HP,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II Max 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II Max 50 EEC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II Max Plus,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II PE,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II Reverse Air,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II TC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II Tracker,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-II di,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III 30 TC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III Max,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III Max 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III Max 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III SR,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III SRMP Plus,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III TC Max,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB-III Whisper,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SB210,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SD-I 1012,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SD-I 1013,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SKF,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SL-100,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SL-200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SMX,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SMX-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SRL,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SRL-50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,SROL,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,STB-I,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,STB-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,STB-III,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 30 1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 30 1200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 30 2000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 30 PEG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 50 1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 50 1200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 50 2000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry 50 Convertible,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI 30 PE,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI 30 PEG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI Convertible,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI Convertible PE,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry DI TC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Sentry TC Convertible,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super GS,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super II 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super II 30 Dehumidifier,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super II 30 Max,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super II 30 TC,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super II 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super II Max,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super MAX,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 30 5154 BP,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 30 5200 AMG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 30 5300 AMG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 30 PE 1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 30 PE 1200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5100,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5200 AMG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5237 ESP,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5300,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 5300 AMG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 50 SS TV,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD 5137 AMG,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super NWD LR,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Super XMT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-1000 Spectrum,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-1000R,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-600,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-600R,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-800,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-800 Spectrum,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T-800R,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,T3M43,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,TD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,TD-II,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,TS200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,TWD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,UK,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,US,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,US-50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,UWD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,UWTD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,Windjammer 500,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 10,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 10LT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 20,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 20LT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 30LT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKL 50LT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XKW,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XMD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XMD 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XMD 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XMD 50D,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XMD-I,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XMT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XNWD,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XNWD 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XNWE 100,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 10,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 10HT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 20,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 20HT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 30,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 30 M5,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 30HT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 50,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 50 M5,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XROL 50HT,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XRW,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XRW 20D,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XRWL,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Thermo King,XUK 50 M4,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,1001,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,1003,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,161,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,200,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,2005,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,200B,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,201,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,202,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,203,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,204,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,220,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,220B,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,221,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,222,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,223,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,224,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,230,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,230B,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,230C,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,230CM,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,230CP,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,231,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,234,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,250,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,250C,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,250CM,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,251,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,254,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,260,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,270,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,6000A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,6004A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,6007,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,6007A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,6008,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,6008A,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,640,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,645,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,650,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,655,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,660,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,670,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,Genesis TM1000,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,NDB40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,NDE40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,NDJ40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,NDS40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,NDT40,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,TDB,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,TDS,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,TGS,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,UDE,All,Na,Na,Na,Na,Na,Na
+Refrigeration Units,Refrigeration Units,All,Transicold,UDG,All,Na,Na,Na,Na,Na,Na
